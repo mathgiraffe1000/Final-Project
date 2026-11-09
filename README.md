@@ -11,6 +11,8 @@ I had to make 3 different charts for the analysis of my dataset. Here they all a
 
 <img width="576" height="454" alt="image" src="https://github.com/user-attachments/assets/e2ac6a99-11e7-4ae5-aa00-e507898f7cf1" />
 
+<img width="1110" height="790" alt="image" src="https://github.com/user-attachments/assets/7b2f00c7-aa50-4fcf-bc7d-0d1a004f24f5" />
+
 <img width="799" height="790" alt="image" src="https://github.com/user-attachments/assets/c7afdbaa-cfe8-48ed-857b-3968ef98d9aa" />
 
 <img width="799" height="790" alt="image" src="https://github.com/user-attachments/assets/c22579ff-4ce7-481d-96ba-5f7643fce244" />
