@@ -9,3 +9,7 @@ I had to make 3 different charts for the analysis of my dataset. Here they all a
 <img width="799" height="821" alt="image" src="https://github.com/user-attachments/assets/8df69155-3a83-4780-bc07-2557a6fdc571" />
 
 <img width="696" height="469" alt="image" src="https://github.com/user-attachments/assets/13105cff-aa84-499f-8480-bdb1e174ae86" />
+
+Extra chart:
+
+<img width="563" height="454" alt="image" src="https://github.com/user-attachments/assets/683e4828-a8f2-42b6-b019-1ff1ab8b1afe" />
