@@ -1,7 +1,7 @@
 # Final-Project
 https://archive.ics.uci.edu/dataset/186/wine+qualityLinks (This is the link to the dataset I used.)
 
-I did a statistics table with all of the numeric values from my dataset. The purpose for these statistics is that it will help with constructing a hypothesis. To see if different groups of data performs differently from another.
+I made a statistics table with all of the numeric values from my dataset. The purpose for these statistics is that it will help with constructing a hypothesis. To see if different groups of data performs differently from another.
 
 <img width="673" height="133" alt="Screenshot 2026-11-10 113339" src="https://github.com/user-attachments/assets/77780f64-1cf9-4314-825d-d396381d79ef" />
 
