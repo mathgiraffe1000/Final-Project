@@ -1,4 +1,9 @@
 # Final-Project
+
+This dataset is about wine quality and what ingredients like alcohol and sugar and other things make the quality of the wines different. The dataset is focusing on white and red wines.
+
+The steps I took to do this project were cleaning the dataset first. Removing nulls and exact duplicate rows. Next I saved the cleaned data to a new data frame and then started doing statistics and making lots of charts. and then I did some filters to pull out sorted values from the data. The filter only shows the first 5 rows of the columns that were filtered. 
+
 https://archive.ics.uci.edu/dataset/186/wine+qualityLinks (This is the link to the dataset I used.)
 
 I made a statistics table with all of the numeric values from my dataset. The purpose for these statistics is that it will help with constructing a hypothesis. To see if different groups of data performs differently from another.
