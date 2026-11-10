@@ -1,5 +1,7 @@
 # Final-Project
 
+I have a data analysis class at MTECH that I am doing and this is a project where I find a dataset and don data analysis on it with python code. I clean the dataset, make charts, filter things, and also make visualizations to make the data more fun and easier to understand. Looking at rows and columns on a dataset you don't know anything about gets very confusing. so adding charts and statistics is really helpful to someone who doesn't know what the data is showing or what it is about. 
+
 This dataset is about wine quality and what ingredients like alcohol and sugar and other things make the quality of the wines different. The dataset is focusing on white and red wines.
 
 The steps I took to do this project were cleaning the dataset first. Removing nulls and exact duplicate rows. Next I saved the cleaned data to a new data frame and then started doing statistics and making lots of charts. and then I did some filters to pull out sorted values from the data. The filter only shows the first 5 rows of the columns that were filtered. 
