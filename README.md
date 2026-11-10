@@ -22,6 +22,8 @@ I had to make different charts for the analysis of my dataset. Here they all are
 
 <img width="1110" height="790" alt="image" src="https://github.com/user-attachments/assets/f6f9febf-1d9e-4be4-a9cc-01c70badcb9f" />
 
+The names for these charts "Relationship Between Alcohol Content and Wine Density" the problem I had with coding the name into the charts is that it would put the name in a weird spot in the middle of the top histogram in the first one and the second one didn't show up at all.
+
 <img width="799" height="790" alt="image" src="https://github.com/user-attachments/assets/d34b0a0a-1b37-49e3-8554-f1b05221e630" />
 
 <img width="799" height="790" alt="image" src="https://github.com/user-attachments/assets/11cd6daa-66a4-462d-bce0-0a60b5c41ba2" />
